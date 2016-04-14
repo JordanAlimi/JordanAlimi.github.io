@@ -8,10 +8,12 @@ My Blog
 
 A creative place where I talk about various things on my mind.
 
-Author  [![Twitter](https://img.shields.io/badge/Twitter-Jordan-66BAB7.svg)](https://twitter.com/jordanalimi)
+Author
 ======
 
-Follow me if you want!
+My name is Jordan Alimi. I'm a baby faced software developer searching for knowledge in the least likely places. 
+
+Follow me on twitter if you want live rants (not very active).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jordanalimi.svg?style=social)](https://twitter.com/jordanalimi)
 
