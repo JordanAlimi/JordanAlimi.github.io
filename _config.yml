@@ -1,9 +1,9 @@
 # Site settings
-title: Nice Blog
-name: Nice Blog # your name
-email: youremail@example.com # your email address
+title: Scout's Code
+name: Jordan Alimi # your name
+email: jordanalimitollgreve@gmail.com # your email address
 description: >
-    A Blog for Champions. # this means to ignore newlines until "baseurl:"
+    A blog for scouting the perils and joys of code. # this means to ignore newlines until "baseurl:"
 baseurl: "https://jordanalimi.github.io" # the subpath of your site, e.g. /blog
 url: "https://jordanalimi.github.io" # the base hostname & protocol for your site
 twitter_username: JordanAlimi # your Twitter username
