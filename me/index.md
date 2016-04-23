@@ -2,19 +2,16 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I'm 17 years old living in Washington state. I like the internet, hip hop, and over-priced yo-yos. I make websites in the way I see most appealing and write code to put on Github.
-
-[//]: # # What is with the website url?
-[//]: # The url hac.im is just my name backwards.
+Hey, my name is Jordan Alimi-Tollgreve but I'm called Alimi by most. I'm 22 years old living in Montreal, Quebec. I love the internet, hip hop, and wandering. I enjoy solving architectural puzzles while shouting to the gods in frustration.
 
 # What do you do?
-I write code
+I design code that doesn't break, no exception.
 
 # Who are your favorite artists?
-I currently like Oshi, Anderson Paak, and Common.
+I'm a big hip hop head. My favorites would be Atmosphere, Biggie and Pete Rock. It hurts to disclude many other great artists.
 
 # What programming languages do you use?
-I like using Javascript and Sass when making websites but I also like Python and Haskell.
+I use JavaScript, C# and Java. With some dabbling in Elm and Python.
 
-# Which sports teams do you follow?
-I like following the Mariners but hate watching baseball. University of Washington football and basketball. Waiting for the Supersonics.
+# You love wandering?
+Yes, I enjoy taking a stroll with my thoughts without worrying about my destination.

@@ -1,7 +1,3 @@
-- name: Fatso
+- name: None
   category: theme
-  url: https://github.com/getmicah/fatso
-
-- name: Beam
-  category: theme
-  url: https://github.com/getmicah/beam
+  url: https://github.com/JordanAlimi/
